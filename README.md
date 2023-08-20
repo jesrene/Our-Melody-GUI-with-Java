@@ -1,3 +1,3 @@
 # Our-Melody
 
-This is a project done during Foundation in Arts with a few of my friends. 
+This project was completed as part of our Foundation in Arts program, involving collaboration with several friends. We developed a graphical user interface (GUI) for a music application using Java.
